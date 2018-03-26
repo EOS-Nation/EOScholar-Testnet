@@ -1,0 +1,2 @@
+# EOScholar-Testnet
+EOScholar Testnet
