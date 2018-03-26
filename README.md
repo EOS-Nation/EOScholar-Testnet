@@ -1,3 +1,5 @@
+# EOScholar Testnet
+
 ![logo](https://steemitimages.com/DQmY3LuDiJEseTaHz31XQqW2gsX2r1PMaveCLv5ydaFCz6M/image.png)
 
 > Educating the community one block at a time
